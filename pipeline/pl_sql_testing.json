@@ -171,6 +171,9 @@
 				]
 			}
 		],
+		"folder": {
+			"name": "SQL"
+		},
 		"annotations": []
 	}
 }
